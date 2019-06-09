@@ -51,6 +51,8 @@ Deploy your Flask app to Heroku.
 
 * Ask your Instructor and TAs for help!
 
+App Link - https://sjb-belly-button-biodiversity.herokuapp.com/
+
 - - -
 
 ## Advanced Challenge Assignment (Optional)
